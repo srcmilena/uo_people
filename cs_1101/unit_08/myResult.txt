@@ -1,0 +1,6 @@
+black, Milena, Sticky Fingers, Milena, 22, Milena
+green, Daniel, Ramones, Daniel, 25, Daniel,
+red, Pietra, RHCP, Pietra, 20, Pietra
+blue, Mike, Arctic Monkeys, Mike, 26, Mike
+white, Marie, Tame Imapala, Marie, 19, Marie,
+pink, John, Outkast, John, 21, John
