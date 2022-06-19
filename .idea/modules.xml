@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cs_1102/cs_1102.iml" filepath="$PROJECT_DIR$/cs_1102/cs_1102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uo_people.iml" filepath="$PROJECT_DIR$/uo_people.iml" />
+    </modules>
+  </component>
+</project>
