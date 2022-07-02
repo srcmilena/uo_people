@@ -22,7 +22,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.SemanticsError">
     <configuration name="SemanticsError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -33,7 +34,7 @@
       </method>
     </configuration>
     <configuration name="SuperPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuperPower" />
+      <option name="MAIN_CLASS_NAME" value="unit_01.SuperPower" />
       <module name="cs_1102" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -48,9 +49,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SemanticsError" />
         <item itemvalue="Application.SyntaxError" />
         <item itemvalue="Application.SuperPower" />
+        <item itemvalue="Application.SemanticsError" />
       </list>
     </recent_temporary>
   </component>
