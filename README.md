@@ -1,1 +1,3 @@
-# uo_people
+# UoPeople
+
+Repository for storing the assignments of the computer science course.
