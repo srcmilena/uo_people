@@ -4,6 +4,8 @@
 
 ## Course details
 
+**Book:** Eck, D. J. (2019). *Introduction to programming using Java*, version 8.1. Hobart and William Smith Colleges.
+
 **UNIT 1** Introduction to programming;
 
 **UNIT 2** Control structures;

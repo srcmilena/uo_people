@@ -2,6 +2,8 @@
 
 ## Course details
 
+**Book:** Downey, A. (2015). Think Python: How to think like a computer scientist.
+
 **UNIT 1**  Introduction and fundamental concepts;
 
 **UNIT 2**  Variables, expressions, statements, and functions;
